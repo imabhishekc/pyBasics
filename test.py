@@ -257,32 +257,32 @@
 # b = "Hello"
 # print(a is b)
 
-# c = 10
-# print(c is x)
+ c = 10
+ print(c is x)
 
-# list1 = [1, 2, 4]
-# list2 = [1, 2, 4]
-# print(list1 == list2)
+ list1 = [1, 2, 4]
+  list2 = [1, 2, 4]
+ print(list1 == list2)
 
-# my_dict = {
-#     "name": "Abhishek",
-#     "class": 12,
-#     "Address": "Arjundhara"
-# }
-# print(my_dict)
+ my_dict = {
+     "name": "Abhishek",
+     "class": 12,
+     "Address": "Arjundhara"
+ }
+ print(my_dict)
 
-# a = 'Hello, World!'
-# print(a[::-1])
+ a = 'Hello, World!'
+ print(a[::-1])
 
-# import math
-# x = 'hello'
-# y = 20
-# print(math.factorial(x))
+ import math
+ x = 'hello'
+ y = 20
+ print(math.factorial(x))
 
-# def __new__(cls):
-#     print("Hello")
+ def __new__(cls):
+     print("Hello")
 
-# x, y = 3, 4
-# y, z = 5, 6
-# print(x + y + z)
+ x, y = 3, 4
+ y, z = 5, 6
+ print(x + y + z)
 
